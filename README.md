@@ -14,10 +14,10 @@
 <br>
 <br>
 
-<div align="center" style="text-align:center">
+<h3 align="center" style="text-align:center">
 <b>Thank you for visiting !!!</b><br/>
 <b>Hope you always be happy</b>💖<br/>
-</div>
+</h3>
 
 <br>
 <br>
