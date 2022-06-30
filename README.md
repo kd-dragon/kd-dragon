@@ -12,13 +12,16 @@
 </p>
 
 <br>
-<br>
 
-<h3 align="center" style="text-align:center">
+<h3 align="left" style="text-align:center">
 <b>Thank you for visiting !!!</b><br/>
 <b>Hope you always be happy</b>💖<br/>
 </h3>
-
+<br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkd-dragon%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+<div style="float:left; margin:30px;">
+<img src="https://github-readme-stats.vercel.app/api?username=kd-dragon&show_icons=true"/>
+</div>
 <br>
 <br>
 <br>
@@ -88,4 +91,5 @@
   <a href="https://www.instagram.com/raykim1991/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:ddragon0513@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ddragon0513@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
 
