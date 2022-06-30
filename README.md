@@ -25,10 +25,9 @@
 <br>
 <br>
 <br>
-<br>
 
 ### 🛠 Tech Stack 🛠
-#### Framework / Middleware
+- Framework / Middleware
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
@@ -51,9 +50,8 @@
   
 </p>
 
-<br>
 
-#### Languages
+- Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
@@ -61,9 +59,8 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
 
-#### Tools
+- Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
@@ -82,7 +79,6 @@
 </p>
 
 
-<br>
 <br>
 <br>
 
