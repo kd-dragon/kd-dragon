@@ -6,7 +6,7 @@
 
   - 👋 Hi there! I am a junior <b>Back-End Developer</b> 🚀 with a little front-end skills, especially in WEB, API <br/>
   - 👀 I’m interested in <b>System Architecture, Programming Methodology</b> (oop, functional) and kind of new technologies (AI/BlockChain/Cloud/AWS Lambda ...)
-  - 🌱 I’m currently learning Golang while developing HTTP RESTful API Server using [Echo](https://echo.labstack.com/) for study
+  - 🌱 I’m currently developing HTTP RESTful API Server using [Echo](https://echo.labstack.com/) for work
   - 💞️ I enjoy playing soccer, playing board game, watching movies, singing 
  
 </p>
