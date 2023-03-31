@@ -4,10 +4,10 @@
 
 <p>
 
-  - 👋 Hi there! I am a junior <b>Back-End Developer</b> 🚀 with a little front-end skills, especially in WEB, API <br/>
-  - 👀 I’m interested in <b>System Architecture, Programming Methodology</b> (oop, functional) and kind of new technologies (AI/BlockChain/Cloud/AWS Lambda ...)
-  - 🌱 I’m currently developing HTTP RESTful API Server using [Echo](https://echo.labstack.com/) for work
-  - 💞️ I enjoy playing soccer, playing board game, watching movies, singing 
+  - 👋 Hi there! I am a <b>Back-End Developer</b> 🚀 with a little front-end skills <br/>
+  - 👀 I’m interested in <b>System Architecture, Programming Methodology</b> (oop, functional) and kind of new technologies
+  - 🌱 I recently developed HTTP RESTful API Server using the echo framework [Echo](https://echo.labstack.com/) and ORM [Ent.go](https://entgo.io/)
+  - 💞️ I enjoy playing soccer, playing board game, watching movies, singing, etc
  
 </p>
 
