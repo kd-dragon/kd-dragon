@@ -4,7 +4,7 @@
 
 <p>
 
-  - 👋 Hi there! I am a <b>Back-End Developer</b> 🚀 with a little front-end skills <br/>
+  - 👋 Hi there! I am a <b>Back-End Developer</b>
   - 👀 I’m interested in <b>System Architecture, Programming Methodology</b> (oop, functional) and kind of new technologies
   - 🌱 I recently developed HTTP RESTful API Server using the echo framework [Echo](https://echo.labstack.com/) and ORM [Ent.go](https://entgo.io/)
   - 💞️ I enjoy playing soccer, playing board game, watching movies, singing, etc
